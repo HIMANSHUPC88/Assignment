@@ -1,0 +1,24 @@
+1st answer = Guido ven rosssum
+2st answer = High level interpreted Object Oriented Programming .
+3st answer = yes python case sensuitive when dealing with identifiers.
+4st answer =  .py is the correct extenction.
+5st answer = python code is interpreted. 
+6st answer = there are some codes e.g. 
+print("Python")
+output = Python
+2nd is 
+ s = 45
+ 
+output = 45 
+etc.
+7st answer = it is (#) hash function. whict is used to write a single line comment.
+8st answer = sys.version is used to find the version of python.
+9st answer = constructor lambda function .
+10st answer = preffered installer program.
+11st answer = few built in function is      lembda, list, set, tupple, boolean etc.
+12st answer = an identifier have max 79 characters . (it is also googled by me)
+13st answer = easy to used , max looks in english, python have a huge library etc.
+14st answer = Memory managed by a private Heap.
+15st answer = we can install python from python.org and (i don't know that how to set path variables) 
+16st answer = yes identation is very important in python to indicate the block of code. 
+
